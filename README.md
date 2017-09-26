@@ -20,4 +20,4 @@ Test
 2. asdasd
 3. asdasdasd
 
-Le previsioni del tempo per Zurigo si trovano [qui] (https://www.meteoblue.com/en/weather/forecast/week/zurich_switzerland_2657896
+Le previsioni del tempo per Zurigo si trovano [qui] (https://www.meteoblue.com/en/weather/forecast/week/zurich_switzerland_2657896)
