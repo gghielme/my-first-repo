@@ -1,26 +1,23 @@
-# This is a large heading
+# Giulia Ghielmetti
 
-## This is a smaller heading
+### Informazioni
 
-And as **imagination** bodies forth, The forms of things *unknown*, the poets pen, Turns them to shapes 
-and gives to airy nothing, A local *habitation* and a **name**.
+Vivo a ZUrigo.
 
-- This is 
-- an unordered 
-- list 
+### Libri
 
-1. This is 
-2. an ordered 
-3. list 
+Tre libri che mi piacciono:
 
-Here is `some code` in the middle of a sentence. 
+- "Tre volte all'alba" di A. Baricco
+- "In villa" di W. S. Maugham
+- "Il principe della nebbia" di C. Ruiz Zafon
 
-``` 
-This is 
-a block 
-of code 
-``` 
+### Lista ordinata
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Test
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. asd
+2. asdasd
+3. asdasdasd
+
+Le previsioni del tempo per Zurigo si trovano [qui] (https://www.meteoblue.com/en/weather/forecast/week/zurich_switzerland_2657896
